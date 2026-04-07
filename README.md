@@ -1,6 +1,8 @@
+# Amazon Food Reviews NLP Analysis
+
 For this project, I worked with a large dataset of over 500,000 reviews. The goal was to explore patterns in both structured data (ratings, products) and unstructured text (review content).
 
-Some of the things I focused on:
+Key Areas of Analysis:
 - Cleaning and exploring the dataset
 - Looking at rating distributions and trends
 - Using NLP techniques like tokenization and sentiment analysis
@@ -16,6 +18,7 @@ Some of the things I focused on:
 ## Data
 The dataset is not included here due to its size, but it can be found online:
 [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+
 If you run this notebook, you’ll need to update the file path to where your dataset is stored.
 
 ## Files in this Repository
