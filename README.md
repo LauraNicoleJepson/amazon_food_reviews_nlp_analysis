@@ -1,6 +1,6 @@
 # Amazon Food Reviews NLP Analysis
 
-For this project, I worked with a large dataset of over 500,000 reviews. The goal was to explore patterns in both structured data (ratings, products) and unstructured text (review content).
+This graduate-level project analyzes over 500,000 Amazon food reviews using NLP techniques to identify sentiment patterns and extract insights from unstructured text data.
 
 Key Areas of Analysis:
 - Cleaning and exploring the dataset
