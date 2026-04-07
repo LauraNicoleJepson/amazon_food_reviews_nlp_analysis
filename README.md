@@ -21,6 +21,9 @@ The dataset is not included here due to its size, but it can be found online:
 
 If you run this notebook, you’ll need to update the file path to where your dataset is stored.
 
+## Key Insights
+- Positive sentiment strongly correlated with product quality descriptors, while negative reviews frequently referenced shipping and packaging issues.
+
 ## Files in this Repository
 - `.ipynb` – full notebook with code and outputs  
 - `.py` – Python script version  
